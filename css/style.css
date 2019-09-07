@@ -1,0 +1,14 @@
+.logo {
+  font-size: 36px;
+  padding: 20px;
+  background: cornflowerblue;
+  color: white;
+  margin-bottom: 30px;
+}
+
+.article-img img {
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  object-fit: cover;
+}
